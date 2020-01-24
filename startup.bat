@@ -1,0 +1,1 @@
+nircmd elevatecmd exec hide C:\dev\volbat\volbat.bat
